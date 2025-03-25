@@ -4,7 +4,7 @@ ob_start(); # Output buffering to handle headers
 
 include './php/db_connection.php';
 ?>
-
+<!-- ojdnfwn -->
 <!DOCTYPE html>
 <html lang="en">
 
