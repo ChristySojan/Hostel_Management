@@ -30,4 +30,4 @@ Hostel_Management-main/
 - **Backend:** PHP (Core PHP)
 - **Database:** MySQL
 - **Server:** Apache (WAMP)
-- **Other Tools:** phpMyAdmin, Excel
+- **Other Tools:** phpMyAdmin, Excel 
